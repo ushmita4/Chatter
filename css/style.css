@@ -1,0 +1,9 @@
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+body{
+   background-image: linear-gradient(rgb(92, 100, 221),purple);
+}
